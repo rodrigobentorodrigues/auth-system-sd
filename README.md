@@ -1,4 +1,4 @@
-## Orojeto Sistemas Distribuidos
+## Projeto Sistemas Distribuidos
 
 Aluno: Rodrigo Bento Rodrigues
 
