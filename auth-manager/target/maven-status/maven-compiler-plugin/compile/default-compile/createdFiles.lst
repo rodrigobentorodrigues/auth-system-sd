@@ -1,0 +1,8 @@
+com/ifpb/sd/datastore/TokenCRUD.class
+com/ifpb/sd/datastore/RepoSingleton.class
+com/ifpb/sd/manager/Main.class
+com/ifpb/sd/manager/InutilizeWorker.class
+com/ifpb/sd/datastore/RemoteRefCRUD.class
+com/ifpb/sd/datastore/UserCRUD.class
+com/ifpb/sd/datastore/ConFactory.class
+com/ifpb/sd/manager/AuthServiceImpl.class

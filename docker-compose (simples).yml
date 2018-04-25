@@ -1,0 +1,38 @@
+version: '2'
+
+services:
+  provider:
+    image: provider
+    build: ./provider
+    container_name: provider_app
+    networks:
+      main:
+        aliases:
+          - provider
+
+  manager:
+    image: manager
+    build: ./auth-manager
+    container_name: manager_app
+    depends_on:
+      - "provider"
+    networks:
+      main:
+        aliases:
+          - manager
+
+  client:
+    image: client
+    build: ./client
+    container_name: client_app
+    depends_on:
+      - "provider"
+      - "manager"
+    networks:
+      main:
+        aliases:
+          - client
+
+networks:
+  main:
+    driver: bridge

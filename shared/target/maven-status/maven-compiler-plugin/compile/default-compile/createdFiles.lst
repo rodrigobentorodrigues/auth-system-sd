@@ -1,0 +1,14 @@
+com/ifpb/sd/domain/Token.class
+com/ifpb/sd/infra/MarshallerJSON.class
+com/ifpb/sd/infra/Translate.class
+com/ifpb/sd/remotes/AuthService.class
+com/ifpb/sd/remotes/ProviderService.class
+com/ifpb/sd/repository/RemoteRefCRUD.class
+com/ifpb/sd/domain/Provider.class
+com/ifpb/sd/domain/User.class
+com/ifpb/sd/infra/Marshaller.class
+com/ifpb/sd/repository/UserCRUD.class
+com/ifpb/sd/repository/TokenCRUD.class
+com/ifpb/sd/infra/TranslateImpl.class
+com/ifpb/sd/repository/RepoSingleton.class
+com/ifpb/sd/repository/ConFactory.class

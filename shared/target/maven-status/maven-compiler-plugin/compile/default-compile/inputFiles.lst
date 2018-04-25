@@ -1,0 +1,14 @@
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/remotes/AuthService.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/repository/RemoteRefCRUD.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/infra/TranslateImpl.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/repository/ConFactory.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/infra/MarshallerJSON.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/domain/User.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/remotes/ProviderService.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/repository/UserCRUD.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/repository/RepoSingleton.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/repository/TokenCRUD.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/domain/Token.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/domain/Provider.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/infra/Translate.java
+/home/juan/Documents/Tigi/Novo/shared/src/main/java/com/ifpb/sd/infra/Marshaller.java
