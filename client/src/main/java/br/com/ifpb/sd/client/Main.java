@@ -8,8 +8,6 @@ import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import com.ifpb.sd.remotes.AuthService;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  *
@@ -30,7 +28,7 @@ public class Main {
             String jsonRequest = translate.toJSONRequestClient(u);
             long init = System.currentTimeMillis();
             for (int i = 0; i < 200; i++) {
-                service.auth(jsonRequest);
+                System.out.println(service.auth(jsonRequest));
             }
             long fim = System.currentTimeMillis();
             System.out.println(fim - init + " milisegundos");
