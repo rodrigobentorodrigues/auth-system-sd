@@ -1,4 +1,4 @@
-## Atividade Colaborativa
+## Projeto Sistemas Distribuidos
 
 Aluno: Rodrigo Bento Rodrigues
 
@@ -16,6 +16,6 @@ Aluno: Rodrigo Bento Rodrigues
 
 - RF5: O provedor e a aplicação cliente poderá solicitar a qualquer momento a verificação de validade do token.
 
-
+### Tratar 200 requisições em tempo de resposta inferior a 1 segundo.
 
   
